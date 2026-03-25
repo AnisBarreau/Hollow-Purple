@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=jihTFIG116k">
-    <img src="https://img.youtube.com/vi/jihTFIG116k/0.jpg" alt="POC SOPHOS XDR BYPASS" width="80%">
+    <img src="https://markdown-videos-api.jorgenkh.no/youtube/jihTFIG116k" alt="POC SOPHOS XDR BYPASS" width="80%">
   </a>
   
   <h1>Hollow Purple</h1>
