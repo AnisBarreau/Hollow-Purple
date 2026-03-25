@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=jihTFIG116k">
-    <img src="https://img.youtube.com/vi/jihTFIG116k/maxresdefault.jpg" alt="POC SOPHOS XDR BYPASS" width="80%">
+    <img src="https://youtube-stats-card.vercel.app/api/video?videoid=jihTFIG116k&theme=dark" alt="POC SOPHOS XDR BYPASS" width="500">
   </a>
   
   <br>
@@ -28,6 +28,6 @@ sc start poc
 Run the executable as Administrator. The tool supports targeting processes by their executable name.
 Note: After wiping a process, you can use RAMMap (Empty Standby List) or simply restart your PC to restore the process functionality.
 
-📖 Technical Deep Dive
+## 📖 Technical Deep Dive
 Read the full article:
 
