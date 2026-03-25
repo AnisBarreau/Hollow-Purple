@@ -11,13 +11,13 @@
 </div>
 
 
-## 🚩 About
+## About
 
 Hollow Purple leverages a vulnerable driver (`cormem.sys`) to achieve arbitrary physical memory read/write. 
 
 This application-layer wipe triggers a Ring 3 `STATUS_ACCESS_VIOLATION` instead of a Ring 0 BSOD, safely neutralizing heavily protected processes (like EDRs or PPLs) without triggering hypervisor faults on modern Windows 11 systems.
 
-## 🚀 Usage
+## Usage
 
 Initialize the driver first:
 
@@ -29,6 +29,6 @@ Run the executable as Administrator. The tool supports targeting processes by th
 
 Note: After wiping a process, you can use RAMMap (Empty Standby List) or simply restart your PC to restore the process functionality.
 
-## 📖 Technical Deep Dive
+## Technical Deep Dive
 Read the full article:
 
