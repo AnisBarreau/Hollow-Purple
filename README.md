@@ -26,6 +26,7 @@ sc create poc type= kernel binPath= "C:\Path\To\Cormem.sys"
 sc start poc
 ```
 Run the executable as Administrator. The tool supports targeting processes by their executable name.
+
 Note: After wiping a process, you can use RAMMap (Empty Standby List) or simply restart your PC to restore the process functionality.
 
 ## 📖 Technical Deep Dive
