@@ -1,14 +1,13 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=jihTFIG116k">
-    <img src="https://markdown-videos-api.jorgenkh.no/youtube/jihTFIG116k" alt="POC SOPHOS XDR BYPASS" width="80%">
+    <img src="https://img.youtube.com/vi/jihTFIG116k/maxresdefault.jpg" alt="POC SOPHOS XDR BYPASS" width="80%">
   </a>
   
-  <h1>Hollow Purple</h1>
+  <br>
 
-  <p>
-    <b>A stealthy BYOVD tool to neutralize PPL processes and bypass HVCI.</b>
-  </p>
-</div>
+  <h3>
+    <a href="https://www.youtube.com/watch?v=jihTFIG116k">▶️ watch the poc on youtube</a>
+  </h3>
 
 ---
 
