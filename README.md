@@ -8,7 +8,7 @@
   <h3>
     <a href="https://www.youtube.com/watch?v=jihTFIG116k">▶️ watch the poc on youtube</a>
   </h3>
-
+</div>
 ---
 
 ## 🚩 About
