@@ -1,16 +1,3 @@
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=jihTFIG116k">
-    <img src="https://youtube-stats-card.vercel.app/api/video?videoid=jihTFIG116k&theme=dark" alt="POC SOPHOS XDR BYPASS" width="500">
-  </a>
-  
-  <br>
-
-  <h3>
-    <a href="https://www.youtube.com/watch?v=jihTFIG116k">▶️ watch the poc on youtube</a>
-  </h3>
-</div>
-
-
 ## About
 
 Hollow Purple leverages a vulnerable driver (`cormem.sys`) to achieve arbitrary physical memory read/write. 
@@ -28,6 +15,14 @@ sc start poc
 Run the executable as Administrator. The tool supports targeting processes by their executable name.
 
 Note: After wiping a process, you can use RAMMap (Empty Standby List) or simply restart your PC to restore the process functionality.
+
+## POC
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jihTFIG116k">
+    <img src="https://youtube-stats-card.vercel.app/api/video?videoid=jihTFIG116k&theme=dark" alt="POC SOPHOS XDR BYPASS" width="500">
+  </a>
+</div>
 
 ## Technical Deep Dive
 Read the full article:
