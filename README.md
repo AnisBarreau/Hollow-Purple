@@ -25,5 +25,5 @@ Note: After wiping a process, you can use RAMMap (Empty Standby List) or simply 
 </div>
 
 ## Technical Deep Dive
-Read the full article:
+Read the full article: https://medium.com/@anis.barreau/how-to-kill-ppls-with-byovd-hollow-purple-86df2f276103
 
